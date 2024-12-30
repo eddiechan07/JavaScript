@@ -1,0 +1,13 @@
+.box{
+    padding:50% 40%;
+    background-color: yellow;
+    margin:2%;
+    border:solid;
+}
+
+.container{
+    width:24%;
+    margin-left: 26%;
+    margin-top:-42%;
+    display: flex;
+}
